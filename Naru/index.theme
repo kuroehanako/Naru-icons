@@ -1,0 +1,20 @@
+[Icon Theme]
+Name=Naru
+Comment=Naru icon theme
+Inherits=Yaru,Humanity,hicolor
+
+DesktopDefault=48
+DesktopSizes=16,22,24,32,48,64
+ToolbarDefault=22
+ToolbarSizes=16,22,24,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,24,32,48
+SmallDefault=16
+SmallSizes=16,22,24,32,48
+PanelDefault=48
+PanelSizes=16,22,24,32,48,64
+DialogDefault=48
+DialogSizes=16,22,24,32,48,64
+
+#Directory List
+Directories=8/emblems,24/actions,24/animations,24/apps,24/devices,24/emblems,24/emotes,24/mimetypes.24/panel,24/places,24/status,32/actions,32/apps,32/devices,32/emblems,32/emotes,32/mimetypes,32/places,32/status,scalable/apps,scalable/devices,scalable/mimetypes
