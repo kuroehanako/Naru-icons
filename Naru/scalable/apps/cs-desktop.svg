@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="cs-desktop.svg"
+   sodipodi:docname="org.xfce.xfdesktop.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -105,7 +105,7 @@
      d="M 3.175,0.5632731 C 0.66245038,0.72395342 0.26458333,1.5427216 0.26458333,4.7418293 v 2.9517578 c 0,3.1990959 0.39786705,4.0178729 2.91041667,4.1785559 z" />
   <path
      id="rect1565"
-     style="fill:url(#linearGradient1873);fill-opacity:1;stroke-width:0.264583"
+     style="fill:url(#linearGradient1873);fill-opacity:1;stroke-width:0.264583;opacity:0.5"
      d="m 4.5568277,0.79375 c -3.5239635,0 -4.02766103,0.5013312 -4.02766103,4.0162924 v 2.8153318 c 0,3.5149478 0.50369753,4.0162928 4.02766103,4.0162928 h 3.5863445 c 3.5239638,0 4.0276608,-0.501345 4.0276608,-4.0162928 V 4.8100424 c 0,-3.5149612 -0.503697,-4.0162924 -4.0276608,-4.0162924 z m 0.081649,0.2645834 h 3.4230468 c 3.3637835,0 3.8447265,0.4769388 3.8447265,3.8204385 v 2.6778728 c 0,3.3434873 -0.480943,3.8204393 -3.8447265,3.8204393 H 4.6384765 C 1.2746931,11.377084 0.79375,10.900132 0.79375,7.5566447 V 4.8787719 c 0,-3.3434997 0.4809431,-3.8204385 3.8447267,-3.8204385 z" />
   <path
      id="rect1370"
