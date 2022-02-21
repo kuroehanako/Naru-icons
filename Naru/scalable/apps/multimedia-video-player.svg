@@ -27,9 +27,9 @@
      units="px"
      inkscape:zoom="6.025139"
      inkscape:cx="-9.0454345"
-     inkscape:cy="26.05749"
-     inkscape:window-width="1920"
-     inkscape:window-height="1010"
+     inkscape:cy="25.725548"
+     inkscape:window-width="1851"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -43,6 +43,10 @@
          style="stop-color:#8940a8;stop-opacity:1"
          offset="0"
          id="stop3594" />
+      <stop
+         style="stop-color:#b549b5;stop-opacity:1"
+         offset="0.49922717"
+         id="stop1112" />
       <stop
          style="stop-color:#d280b9;stop-opacity:1"
          offset="1"
@@ -82,10 +86,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient3598"
        id="linearGradient3600"
-       x1="7.8838859"
-       y1="11.784748"
-       x2="4.4751787"
-       y2="0.5291667"
+       x1="14.763053"
+       y1="13.372248"
+       x2="-1.3456546"
+       y2="-1.5875"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <path
