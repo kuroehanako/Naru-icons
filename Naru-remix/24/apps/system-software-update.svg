@@ -28,9 +28,9 @@
      showguides="true"
      inkscape:zoom="32.25"
      inkscape:cx="11.984496"
-     inkscape:cy="12"
-     inkscape:window-width="1920"
-     inkscape:window-height="998"
+     inkscape:cy="12.015504"
+     inkscape:window-width="1718"
+     inkscape:window-height="847"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -80,6 +80,11 @@
      sodipodi:nodetypes="cssccsssssc"
      transform="scale(0.26458334)" />
   <path
+     id="rect13049"
+     style="opacity:0.1;fill:#ffffff;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+     d="m 0.13229167,3.175 v 1.3228839 c 0,1.1638823 0.2643737,1.4466583 1.40043133,1.4552084 H 1.5875 4.7624975 c 1.1823568,0 1.4552083,-0.3066797 1.4552083,-1.4552084 V 3.175 Z"
+     sodipodi:nodetypes="csccsscc" />
+  <path
      d="m 1.8272787,1.0583333 c -0.89236399,0 -1.03352869,0.2043282 -1.03352869,1.0583334 v 2.1166667 c 0,0.9006419 0.167723,1.0583333 1.19062499,1.0583333 h 2.38125 c 1.0641211,0 1.190625,-0.1644951 1.190625,-1.0583333 V 2.1166667 C 5.55625,1.201339 5.3940213,1.0583333 4.365625,1.0583333 H 1.8768881 Z"
      style="fill:#babeb4;fill-opacity:1;stroke-width:0.0465087;stroke-linecap:round;stroke-linejoin:round;opacity:0.1"
      id="path1305"
@@ -108,14 +113,9 @@
      sodipodi:nodetypes="sssssss" />
   <path
      d="m 1.7197916,3.4395834 h 1.8520832 c 0.07329,0 0.1322917,0.059002 0.1322917,0.1322917 0,0.07329 -0.059002,0.1322917 -0.1322917,0.1322917 H 1.7197916 c -0.07329,0 -0.1322916,-0.059002 -0.1322916,-0.1322917 0,-0.07329 0.059002,-0.1322917 0.1322916,-0.1322917 z"
-     style="opacity:1;fill:#77216f;stroke-width:0.140009;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     style="opacity:1;fill:#315bef;stroke-width:0.140009;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
      id="path3340"
      sodipodi:nodetypes="sssssss" />
-  <path
-     id="rect13049"
-     style="opacity:0.1;fill:#ffffff;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
-     d="m 0.13229167,3.175 v 1.3228839 c 0,1.1638823 0.2643737,1.4466583 1.40043133,1.4552084 H 1.5875 4.7624975 c 1.1823568,0 1.4552083,-0.3066797 1.4552083,-1.4552084 V 3.175 Z"
-     sodipodi:nodetypes="csccsscc" />
   <path
      id="rect5096"
      style="opacity:0.4;stroke-width:0.240954;stroke-linecap:round;stroke-linejoin:round"
