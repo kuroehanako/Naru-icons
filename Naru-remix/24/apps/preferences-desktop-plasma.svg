@@ -7,7 +7,7 @@
    viewBox="0 0 6.3499999 6.3500002"
    version="1.1"
    id="svg5013"
-   sodipodi:docname="preferences-desktop-theme-plasma.svg"
+   sodipodi:docname="preferences-desktop-plasma.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,9 +28,9 @@
      showguides="true"
      inkscape:zoom="26.667397"
      inkscape:cx="7.7435379"
-     inkscape:cy="15.112086"
-     inkscape:window-width="1920"
-     inkscape:window-height="1010"
+     inkscape:cy="12.093419"
+     inkscape:window-width="1718"
+     inkscape:window-height="847"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -69,25 +69,25 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient2290"
-       id="linearGradient2292"
+       xlink:href="#linearGradient3598"
+       id="linearGradient2292-3"
        x1="8.617857"
        y1="6.4892545"
        x2="-0.15119053"
        y2="1.9774122"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.7368992,0,0,2.6596675,0.41379327,0.74074096)" />
+       gradientTransform="matrix(0.72413793,0,0,0.70370371,0.10948277,0.19604801)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient2290">
+       id="linearGradient3598">
       <stop
-         style="stop-color:#fb7c38;stop-opacity:1"
+         style="stop-color:#28c8fd;stop-opacity:1"
          offset="0"
-         id="stop2286" />
+         id="stop3594" />
       <stop
-         style="stop-color:#9b33ae;stop-opacity:1"
+         style="stop-color:#0829dc;stop-opacity:1"
          offset="1"
-         id="stop2288" />
+         id="stop3596" />
     </linearGradient>
   </defs>
   <path
@@ -96,14 +96,9 @@
      id="path9125"
      sodipodi:nodetypes="cssssssssc" />
   <path
-     id="rect7669"
-     style="fill:#808080;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
-     d="M 1.7973064,0.66145835 C 0.66124888,0.67000474 0.39687501,0.95278432 0.39687501,2.1166667 v 2.1166667 c 0,1.1638823 0.26437379,1.4466584 1.40043139,1.4552084 h 0.054777 2.6458334 c 1.1823568,0 1.4552083,-0.2728518 1.4552083,-1.4552084 V 2.1166667 c 0,-1.1823567 -0.2728515,-1.45520835 -1.4552083,-1.45520835 H 1.8520834 c -0.018474,0 -0.036744,-1.3565e-4 -0.054777,0 z" />
-  <path
-     id="rect6397"
-     style="fill:url(#linearGradient2292);fill-opacity:1;stroke-width:0.688732;stroke-linejoin:round"
-     d="m 5.7929687,1.4999999 c -4.2937606,0.032301 -5.29296876,1.1010742 -5.29296876,5.5 V 17 c 0,4.398925 0.99920776,5.467685 5.29296876,5.5 H 5.9999999 18 c 4.46875,0 5.5,-1.031251 5.5,-5.5 V 6.9999999 c 0,-4.4687499 -1.03125,-5.5 -5.5,-5.5 H 5.9999999 c -0.069823,0 -0.138875,-5.129e-4 -0.2070312,0 z"
-     transform="scale(0.26458334)"
+     id="rect6397-6"
+     style="fill:url(#linearGradient2292-3);fill-opacity:1;stroke-width:0.182227;stroke-linejoin:round"
+     d="M 1.5327229,0.39693531 C 0.39666547,0.40548161 0.13229167,0.68826121 0.13229167,1.8521436 v 2.6458335 c 0,1.1638822 0.2643737,1.4466583 1.40043123,1.4552083 H 1.5874999 4.7625 c 1.1823569,0 1.4552084,-0.2728518 1.4552084,-1.4552083 V 1.8521436 C 6.2177084,0.66978691 5.9448569,0.39693531 4.7625,0.39693531 H 1.5874999 c -0.018474,0 -0.036744,-1.357e-4 -0.054777,0 z"
      sodipodi:nodetypes="cssccsssssc" />
   <path
      d="m 2.2489584,1.3229167 c -0.1282568,0 -0.2315104,0.1032537 -0.2315104,0.2315104 0,0.1282568 0.1032536,0.2315104 0.2315104,0.2315104 0.1282568,0 0.2315104,-0.1032536 0.2315104,-0.2315104 0,-0.1282567 -0.1032536,-0.2315104 -0.2315104,-0.2315104 z m 1.4552083,0 L 3.175,1.8520834 3.96875,2.6458334 3.175,3.4395834 3.7041667,3.96875 4.4979167,3.175 5.0270834,2.6458334 4.4979167,2.1166667 Z M 1.6701824,2.7119792 c -0.1923839,0 -0.3472657,0.1548791 -0.3472657,0.3472656 0,0.1923838 0.1548818,0.3472656 0.3472657,0.3472656 0.1923864,0 0.3472656,-0.1548818 0.3472656,-0.3472656 0,-0.1923865 -0.1548792,-0.3472656 -0.3472656,-0.3472656 z m 1.0417968,1.3890625 c -0.2565135,0 -0.4630208,0.2065073 -0.4630208,0.4630208 0,0.2565135 0.2065073,0.4630208 0.4630208,0.4630208 C 2.9684928,5.0270833 3.175,4.820576 3.175,4.5640625 3.175,4.307549 2.9684928,4.1010417 2.7119792,4.1010417 Z"

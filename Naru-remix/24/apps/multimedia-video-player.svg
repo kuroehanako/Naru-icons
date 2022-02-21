@@ -7,7 +7,7 @@
    viewBox="0 0 6.3499999 6.3500002"
    version="1.1"
    id="svg5013"
-   sodipodi:docname="multimedia-video-player.svg"
+   sodipodi:docname="deepin-movie.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,10 +27,10 @@
      units="px"
      showguides="true"
      inkscape:zoom="12.174337"
-     inkscape:cx="-1.6017299"
-     inkscape:cy="11.663879"
-     inkscape:window-width="1920"
-     inkscape:window-height="998"
+     inkscape:cx="-15.647669"
+     inkscape:cy="11.62281"
+     inkscape:window-width="1718"
+     inkscape:window-height="847"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -45,7 +45,7 @@
          offset="0"
          id="stop2222" />
       <stop
-         style="stop-color:#f1d7e9;stop-opacity:1"
+         style="stop-color:#d7e1f1;stop-opacity:1"
          offset="1"
          id="stop2224" />
     </linearGradient>
@@ -81,30 +81,14 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient2290"
+       xlink:href="#linearGradient3598"
        id="linearGradient2292"
-       x1="-0.96472508"
-       y1="0.28538561"
-       x2="10.861448"
-       y2="9.3075047"
+       x1="0.49678287"
+       y1="1.0373592"
+       x2="7.9384322"
+       y2="8.5555305"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.72413793,0,0,0.70370371,0.10948281,0.06375639)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient2290">
-      <stop
-         style="stop-color:#d280b9;stop-opacity:1"
-         offset="0"
-         id="stop2286" />
-      <stop
-         style="stop-color:#b549b5;stop-opacity:1"
-         offset="0.49733058"
-         id="stop1685" />
-      <stop
-         style="stop-color:#8040a8;stop-opacity:1"
-         offset="1"
-         id="stop2288" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2226"
@@ -115,6 +99,18 @@
        y2="2.5194252"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(0.40266448,-0.66668035)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3598">
+      <stop
+         style="stop-color:#28c8fd;stop-opacity:1"
+         offset="0"
+         id="stop3594" />
+      <stop
+         style="stop-color:#0829dc;stop-opacity:1"
+         offset="1"
+         id="stop3596" />
+    </linearGradient>
   </defs>
   <path
      d="M 1.5275554,0.79381578 C 0.28822009,0.80313578 1.9010417e-7,1.1116258 1.9010417e-7,2.3813158 v 2.381217 c 0,1.289844 0.29765619989583,1.5875 1.58750000989583,1.5875 h 3.1749977 c 1.2898438,0 1.5875,-0.297656 1.5875,-1.5875 v -2.381217 c 0,-1.2898437 -0.2976562,-1.58750002 -1.5875,-1.58750002 H 1.5875002 c -0.020153,0 -0.040273,-1.48e-4 -0.059945,0 z"

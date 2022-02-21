@@ -7,7 +7,7 @@
    viewBox="0 0 4.2333333 4.2333333"
    version="1.1"
    id="svg1003"
-   sodipodi:docname="multimedia-video-player.svg"
+   sodipodi:docname="dragonplayer.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,10 +28,10 @@
      showguides="false"
      inkscape:lockguides="true"
      inkscape:zoom="17.500893"
-     inkscape:cx="-0.085709913"
+     inkscape:cx="-0.085709912"
      inkscape:cy="13.113617"
-     inkscape:window-width="1920"
-     inkscape:window-height="1010"
+     inkscape:window-width="1718"
+     inkscape:window-height="847"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -46,25 +46,9 @@
          offset="0"
          id="stop2826" />
       <stop
-         style="stop-color:#f1d7e9;stop-opacity:1"
+         style="stop-color:#d7e1f1;stop-opacity:1"
          offset="1"
          id="stop2828" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient17934">
-      <stop
-         style="stop-color:#d280b9;stop-opacity:1"
-         offset="0"
-         id="stop17930" />
-      <stop
-         style="stop-color:#b549b5;stop-opacity:1"
-         offset="0.5"
-         id="stop1324" />
-      <stop
-         style="stop-color:#8549a8;stop-opacity:1"
-         offset="1"
-         id="stop17932" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -98,12 +82,12 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient17934"
+       xlink:href="#linearGradient3598"
        id="linearGradient17936"
-       x1="-1.0583333"
-       y1="-0.13229164"
-       x2="5.2930031"
-       y2="4.8961282"
+       x1="0.5291667"
+       y1="0.39687502"
+       x2="3.705503"
+       y2="3.8377948"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -114,10 +98,22 @@
        x2="1.3230962"
        y2="1.190625"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3598">
+      <stop
+         style="stop-color:#28c8fd;stop-opacity:1"
+         offset="0"
+         id="stop3594" />
+      <stop
+         style="stop-color:#0829dc;stop-opacity:1"
+         offset="1"
+         id="stop3596" />
+    </linearGradient>
   </defs>
   <path
      d="M 1.0583333,0.396875 H 3.175 c 0.7935019,1.919e-4 0.9259876,0.157244 0.9260416,0.9921875 V 2.8376562 C 4.1009876,3.6238466 3.9685019,3.8366501 3.175,3.8364583 H 1.0583333 c -0.79355622,0 -0.92604169,-0.2128036 -0.92604169,-0.9988021 V 1.3890625 c 0,-0.7859985 0.13248546,-0.9921875 0.92604169,-0.9921875 z"
-     style="fill:url(#linearGradient17936);fill-opacity:1;stroke-width:0.0653156;stroke-linejoin:round"
+     style="fill:url(#linearGradient17936);fill-opacity:1.0;stroke-width:0.0653156;stroke-linejoin:round"
      id="path17503"
      sodipodi:nodetypes="sccccssss" />
   <path

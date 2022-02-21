@@ -8,7 +8,7 @@
    version="1.1"
    id="svg2719"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="deepin-media-player.svg"
+   sodipodi:docname="deepin-movie.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -27,9 +27,9 @@
      units="px"
      inkscape:zoom="18.075417"
      inkscape:cx="8.1602543"
-     inkscape:cy="17.592955"
-     inkscape:window-width="1851"
-     inkscape:window-height="1016"
+     inkscape:cy="17.537631"
+     inkscape:window-width="1718"
+     inkscape:window-height="847"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -44,25 +44,9 @@
          offset="0"
          id="stop924" />
       <stop
-         style="stop-color:#f1d7e9;stop-opacity:1"
+         style="stop-color:#d7ddf1;stop-opacity:1"
          offset="1"
          id="stop926" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient2290">
-      <stop
-         style="stop-color:#d280b9;stop-opacity:1"
-         offset="0"
-         id="stop2286" />
-      <stop
-         style="stop-color:#b549b5;stop-opacity:1"
-         offset="0.5"
-         id="stop1689" />
-      <stop
-         style="stop-color:#8920a8;stop-opacity:1"
-         offset="1"
-         id="stop2288" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -96,12 +80,12 @@
        gradientTransform="matrix(0.26458333,0,0,0.26458333,0,-0.26458332)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient2290"
+       xlink:href="#linearGradient3598"
        id="linearGradient2292"
-       x1="-1.595493"
-       y1="-0.00081733015"
-       x2="10.054167"
-       y2="8.4666672"
+       x1="1.5795071"
+       y1="1.057516"
+       x2="7.4083333"
+       y2="7.4083338"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -112,6 +96,18 @@
        x2="2.9104166"
        y2="2.3816469"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3598">
+      <stop
+         style="stop-color:#28c8fd;stop-opacity:1"
+         offset="0"
+         id="stop3594" />
+      <stop
+         style="stop-color:#0829dc;stop-opacity:1"
+         offset="1"
+         id="stop3596" />
+    </linearGradient>
   </defs>
   <path
      id="rect18683"
