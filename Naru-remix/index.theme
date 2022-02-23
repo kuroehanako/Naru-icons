@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=Naru Remix
+Name=Naru remix
 Comment=Naru icon theme with Yaru-remix Colors
 Inherits=Yaru-remix,Humanity,hicolor
 
@@ -185,6 +185,11 @@ Type=Fixed
 
 [32/devices]
 Context=Devices
+Size=32
+Type=Fixed
+
+[32/emblems]
+Context=Emblems
 Size=32
 Type=Fixed
 
@@ -509,6 +514,12 @@ Type=Fixed
 
 [32@2x/devices]
 Context=Devices
+Size=32
+Scale=2
+Type=Fixed
+
+[32@2x/emblems]
+Context=Emblems
 Size=32
 Scale=2
 Type=Fixed

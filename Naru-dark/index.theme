@@ -188,6 +188,11 @@ Context=Devices
 Size=32
 Type=Fixed
 
+[32/emblems]
+Context=Emblems
+Size=32
+Type=Fixed
+
 [32/mimetypes]
 Context=Mimetypes
 Size=32
@@ -509,6 +514,12 @@ Type=Fixed
 
 [32@2x/devices]
 Context=Devices
+Size=32
+Scale=2
+Type=Fixed
+
+[32@2x/emblems]
+Context=Emblems
 Size=32
 Scale=2
 Type=Fixed

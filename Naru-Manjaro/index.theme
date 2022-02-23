@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Naru Manjaro
-Comment=Naru icon theme with Manjaro Colors
-Inherits=Yaru-remix,Humanity,hicolor
+Comment=Naru icon theme with Manjaro Brand Color
+Inherits=Yaru,Humanity,hicolor
 
 DesktopDefault=48
 DesktopSizes=16,22,24,32,48,64
@@ -185,6 +185,11 @@ Type=Fixed
 
 [32/devices]
 Context=Devices
+Size=32
+Type=Fixed
+
+[32/emblems]
+Context=Emblems
 Size=32
 Type=Fixed
 
@@ -509,6 +514,12 @@ Type=Fixed
 
 [32@2x/devices]
 Context=Devices
+Size=32
+Scale=2
+Type=Fixed
+
+[32@2x/emblems]
+Context=Emblems
 Size=32
 Scale=2
 Type=Fixed
