@@ -6,7 +6,7 @@ Yaru-icons with Other Distro Colors and Desktop Environments
 
 # Features
 
-* Squircle Design - Looks like One UI, iOS, macOS Big Sur
+* Squircle Design - Looks like One UI, iOS, macOS Big Sur, Android OS
 
 # Varients
 
@@ -14,24 +14,30 @@ Yaru-icons with Other Distro Colors and Desktop Environments
 
 ![Default](screenshots/var-default.png)
 
+* Aubergine - Ubuntu Aubergine Colour
+
+![Aubergine](screenshots/var-aubergine.png)
+
 * MATE - Yaru-MATE's Naru Mod
 
-![Default](screenshots/var-mate.png)
+![Mate](screenshots/var-mate.png)
 
-* Manjaro - Ubuntu theme with Manjaro Color
+* Manjaro - Ubuntu theme with Manjaro Colour
 
-![Default](screenshots/var-manjaro.png)
+![Manjaro](screenshots/var-manjaro.png)
 
 * Remix - Yaru-remix color
 
-![Default](screenshots/var-remix.png)
+![Remix](screenshots/var-remix.png)
 
 # Preview
 
 ![Default](preview-images/preview-default.png)
 
-![Default](preview-images/preview-mate.png)
+![Aubergine](preview-images/preview-aubergine.png)
 
-![Default](preview-images/preview-manjaro.png)
+![Mate](preview-images/preview-mate.png)
 
-![Default](preview-images/preview-remix.png)
+![Manjaro](preview-images/preview-manjaro.png)
+
+![Remix](preview-images/preview-remix.png)

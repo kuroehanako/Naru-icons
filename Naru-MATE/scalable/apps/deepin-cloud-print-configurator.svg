@@ -37,7 +37,7 @@
  <rect x="8" y="31" width="32" height="1" enable-background="new" opacity=".2"/>
  <ellipse cx="29.5" cy="29.497" rx="1.5" ry="1.5026" enable-background="new" fill="#fff"/>
  <circle transform="scale(-1,1)" cx="-36" cy="37" r="12" opacity=".1"/>
- <circle cx="36" cy="36" r="11.5" fill="#e95420" stroke="#000" stroke-dashoffset="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".4"/>
+ <circle cx="36" cy="36" r="11.5" fill="#809e5b" stroke="#000" stroke-dashoffset="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".4"/>
  <rect transform="rotate(-90)" x="-44" y="28" width="16" height="16" color="#000000" fill="none"/>
  <circle transform="rotate(90)" cx="36" cy="-36" r="10.5" fill="none" opacity=".3" stroke="url(#linearGradient1214)" stroke-dashoffset="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".4"/>
  <g transform="translate(-1)" fill="#fff" shape-rendering="auto">

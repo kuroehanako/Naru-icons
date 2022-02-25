@@ -26,10 +26,10 @@
      showgrid="false"
      units="px"
      inkscape:zoom="17.500893"
-     inkscape:cx="14.084996"
-     inkscape:cy="12.913627"
-     inkscape:window-width="1920"
-     inkscape:window-height="1010"
+     inkscape:cx="14.113566"
+     inkscape:cy="12.942197"
+     inkscape:window-width="1851"
+     inkscape:window-height="1049"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -69,22 +69,22 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3598"
-       id="linearGradient3600"
-       x1="12.262125"
-       y1="9.7353592"
-       x2="0.36087561"
-       y2="4.2708535"
+       id="linearGradient908"
+       x1="30.337561"
+       y1="20.34284"
+       x2="1.3375589"
+       y2="4.3428392"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.4356956,0,0,2.4296963,0.53333328,0.89285725)" />
+       gradientTransform="scale(0.26458333)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient3598">
       <stop
-         style="stop-color:#fb7c38;stop-opacity:1"
+         style="stop-color:#28c8fd;stop-opacity:1"
          offset="0"
          id="stop3594" />
       <stop
-         style="stop-color:#9b33ae;stop-opacity:1"
+         style="stop-color:#0829dc;stop-opacity:1"
          offset="1"
          id="stop3596" />
     </linearGradient>
@@ -96,9 +96,8 @@
      sodipodi:nodetypes="sssssssss" />
   <path
      id="rect877"
-     style="display:inline;fill:url(#linearGradient3600);fill-opacity:1;stroke:none;stroke-width:0.241369;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
-     d="M 9,2.5 C 3.5,2.5 1.5,4.4999998 1.5,10 v 11.5 c 0,6 2,8 8,8 h 13 c 6,0 8,-2 8,-8 v -11 c -1e-6,-6 -2,-8 -8,-8 z"
-     transform="scale(0.26458333)"
+     style="display:inline;fill:url(#linearGradient908);fill-opacity:1;stroke:none;stroke-width:0.0638622;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+     d="m 2.38125,0.66145834 c -1.45520837,0 -1.984375,0.52916656 -1.984375,1.98437496 v 3.0427083 c 0,1.5875 0.52916663,2.1166666 2.1166666,2.1166666 h 3.4395833 c 1.5875,0 2.1166667,-0.5291666 2.1166667,-2.1166666 V 2.778125 c -3e-7,-1.5875 -0.5291667,-2.11666666 -2.1166667,-2.11666666 z"
      sodipodi:nodetypes="cccccsscc" />
   <path
      id="rect857"
