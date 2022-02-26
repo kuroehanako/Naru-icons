@@ -26,10 +26,10 @@
      showgrid="false"
      units="px"
      inkscape:zoom="23.334524"
-     inkscape:cx="16.777715"
-     inkscape:cy="20.377532"
-     inkscape:window-width="1851"
-     inkscape:window-height="1016"
+     inkscape:cx="16.349166"
+     inkscape:cy="16.477731"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -84,8 +84,8 @@
      style="color:#000000;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;dominant-baseline:auto;white-space:normal;shape-padding:0;opacity:0.1;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#000000;fill-opacity:1;stroke-width:0.999783;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
      id="path1537" />
   <path
-     d="m 5.0008987,1.5010791 c -1.4998447,0 -2.6166289,-0.054295 -3.4508425,0.6073652 C 1.1329995,2.4392744 0.85622812,2.9375495 0.70054426,3.5692125 0.5448604,4.2008755 0.49036605,4.9848847 0.50136491,6.0064925 V 17.99941 c 0,1.020708 0.0609937,1.803337 0.21877732,2.43338 0.15748367,0.630084 0.42955547,1.125699 0.84361257,1.456869 0.8281142,0.66247 1.9372992,0.609325 3.4371439,0.609325 H 18.999448 c 1.020694,0 1.803313,-0.06119 2.433348,-0.21873 0.630035,-0.157516 1.125683,-0.429631 1.456849,-0.843674 0.662531,-0.828075 0.609337,-1.937325 0.609337,-3.43719 V 8.0002924 c 0,-1.0207077 -0.06099,-1.8033371 -0.218678,-2.4333802 C 23.122721,4.9368291 22.850649,4.4412138 22.436592,4.1100437 21.608578,3.4475734 20.499293,3.5007187 18.999448,3.5007187 H 11.236553 L 9.2055631,1.5008991 Z"
-     style="color:#000000;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;dominant-baseline:auto;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:url(#linearGradient3286);fill-opacity:1.0;stroke-width:0.999903;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+     d="m 5.0008987,1.5010791 c -1.4998447,0 -2.6166289,-0.054295 -3.4508425,0.6073652 C 1.1329995,2.4392744 0.8562281,2.9375495 0.7005443,3.5692125 0.5448604,4.2008755 0.4903661,4.9848847 0.5013649,6.0064925 V 17.99941 c 0,1.020708 0.060994,1.803337 0.2187773,2.43338 0.1574837,0.630084 0.4295555,1.125699 0.8436126,1.456869 0.8281142,0.66247 1.9372992,0.609325 3.4371439,0.609325 H 18.999448 c 1.020694,0 1.803313,-0.06119 2.433348,-0.21873 0.630035,-0.157516 1.125683,-0.429631 1.456849,-0.843674 0.662531,-0.828075 0.609337,-1.937325 0.609337,-3.43719 V 8.0002924 c 0,-1.0207077 -0.06099,-1.8033371 -0.218678,-2.4333802 C 23.122721,4.9368291 22.850649,4.4412138 22.436592,4.1100437 21.608578,3.4475734 20.499293,3.5007187 18.999448,3.5007187 H 11.236553 L 9.2055631,1.5008991 Z"
+     style="color:#000000;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;dominant-baseline:auto;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:url(#linearGradient3286);fill-opacity:1;stroke-width:0.999903;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
      id="path896" />
   <path
      d="M 12.0355,5 10.0023,7 5.442,7.0664 C 1.0216,7.1397 0.567,7.52136 0.567,11.9336 v 1 c 0,-4.4122 0.4546,-4.7939 4.875,-4.8672 L 10.0023,8 12.0355,6 h 6.656299 c 4.4211,0 4.875,0.45301 4.875,4.8652 v -1 C 23.566799,5.453 23.112899,5 18.691799,5 Z"
@@ -109,7 +109,7 @@
      id="path1310" />
   <path
      d="m 9.0008087,2 2.0311823,2 h 7.96824 C 22.000058,4 23,4 23,8 V 9 C 23,5 22.000058,5 19.000231,5 h -7.96824 L 9.0008087,3 H 5.0010398 C 2.0012125,3 0.95837265,3 1.0012702,7 V 6 C 0.95827261,2 2.0012125,2 5.0010398,2 Z"
-     style="color:#000000;opacity:0.4;fill:#89dafe;stroke-width:0.999971"
+     style="color:#000000;opacity:0.4;fill:#89dafe;stroke-width:0.999971;fill-opacity:1"
      id="path2827" />
   <path
      d="m 23,15 -7,6.9999 h 2.998914 c 3.000814,0 4.001086,0 4.001086,-4.001086 z"
