@@ -7,7 +7,7 @@
    viewBox="0 0 4.2333333 4.2333333"
    version="1.1"
    id="svg1003"
-   sodipodi:docname="cs-panel.svg"
+   sodipodi:docname="preferences-desktop-effects.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -96,11 +96,33 @@
      id="path17503"
      sodipodi:nodetypes="sccccssss" />
   <path
-     id="rect2000"
-     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
-     d="M 0.5,10.724609 C 0.5,13.695312 1.0007324,14.5 4,14.5 h 8 c 2.999062,7.25e-4 3.499796,-0.803962 3.5,-3.775391 z"
-     transform="scale(0.26458333)"
-     sodipodi:nodetypes="csccc" />
+     id="rect1933"
+     style="opacity:0.7;fill:#ffffff;stroke-width:0.114568;stroke-linejoin:round;stroke-opacity:0.501961"
+     d="M 1.3229166,1.0583333 1.0583333,1.3229167 1.3229166,1.5875 1.5875,1.3229167 Z"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="M 1.8520833,1.4816667 1.7197917,1.6139583 1.8520833,1.74625 1.984375,1.6139583 Z"
+     style="opacity:0.7;fill:#ffffff;stroke-width:0.0101042;stroke-linejoin:round;stroke-opacity:0.501961"
+     id="path2264"
+     sodipodi:nodetypes="ccccc" />
+  <g
+     id="g10730"
+     transform="rotate(45,3.8231624,-0.19649049)">
+    <rect
+       style="fill:#24282a;fill-opacity:1;stroke-width:0.432062"
+       id="rect863"
+       height="2.6458333"
+       x="3.96875"
+       y="1.5875"
+       width="0.52916664" />
+    <rect
+       style="fill:#eeeeec;fill-opacity:1;stroke-width:0.264583"
+       id="rect6863"
+       width="0.5291667"
+       height="0.79374999"
+       x="3.96875"
+       y="1.0583334" />
+  </g>
   <path
      id="rect7040"
      style="opacity:0.4;stroke-width:0.264583;stroke-linejoin:round"
